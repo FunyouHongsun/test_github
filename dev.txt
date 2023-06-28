@@ -1,3 +1,0 @@
-dev test
-the second line
-the third line
